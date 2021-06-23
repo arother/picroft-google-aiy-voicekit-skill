@@ -2,7 +2,7 @@
 Enables Google AIY voicekit on picroft with Respeaker 2-Mics Pi HAT
 
 ## About
-This enables the led and button on the Respeaker 2-Mics Pi HAT. For now, just the button ;)
+This enables the led and button on the Respeaker 2-Mics Pi HAT. For now, just the button und a LED that might be attached to GPIO 12 ;)
 
 If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.
 
@@ -39,4 +39,5 @@ platform_picroft
 #Googleaiy
 #voicekit
 #voicehat
+#Respeaker2-MicsPiHAT
 
