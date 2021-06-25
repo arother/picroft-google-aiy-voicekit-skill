@@ -24,7 +24,7 @@ import RPi.GPIO as GPIO
 
 # GPIO pins
 BUTTON = 17
-LED = 12
+LED = 27
 
 class PicroftGoogleAiyVoicekit(MycroftSkill):
     def __init__(self):
